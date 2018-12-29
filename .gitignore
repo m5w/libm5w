@@ -1,0 +1,13 @@
+# Vim swap files
+*.swp
+
+/build/**
+!/build/autogen.sh
+/Makefile.in
+/aclocal.m4
+/autom4te.cache/
+/configure
+/install-sh
+/missing
+/test-driver
+__pycache__/
